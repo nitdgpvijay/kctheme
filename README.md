@@ -1,0 +1,2 @@
+# kctheme
+Keycloak theme customization
