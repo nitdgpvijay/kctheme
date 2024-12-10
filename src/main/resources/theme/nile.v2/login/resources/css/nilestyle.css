@@ -1,0 +1,36 @@
+.login-pf body {
+    background: DimGrey none;
+}
+
+.login-pf body {
+    background: url("../img/nile-login.jpeg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
+
+
+pf-m-primary {
+color: black !important;
+background-color: #B646AE !important;
+}
+
+.card-pf {
+margin: 0 auto;
+box-shadow: var(--pf-global--BoxShadow--lg);
+padding: 0 20px;
+max-width: 500px;
+border-top: 4px solid;
+border-color: #B646AE;
+background-color: #fff;
+}
+
+
+#kc-header-wrapper::before {
+content: "";
+position: relative;
+margin: auto;
+display: block;
+width: 200px;
+background: url("../img/nile_logo.png") no-repeat;
+background-size: auto;
+}
