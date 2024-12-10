@@ -1,0 +1,7 @@
+{
+    "themes": [{
+        "name" : "nile.v2",
+        "types": [ "login" ]
+    }
+    ]
+}
